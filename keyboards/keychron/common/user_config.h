@@ -1,0 +1,9 @@
+#pragma once
+
+#define IGNORE_MOD_TAP_INTERRUPT
+#undef HOLD_ON_OTHER_KEY_PRESS
+#undef PERMISSIVE_HOLD
+#define QUICK_TAP_TERM 0
+#undef RETRO_TAPPING
+#define TAPPING_TERM 160
+
