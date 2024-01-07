@@ -5,5 +5,5 @@
 #undef PERMISSIVE_HOLD
 #define QUICK_TAP_TERM 0
 #undef RETRO_TAPPING
-#define TAPPING_TERM 160
+#define TAPPING_TERM 200
 
