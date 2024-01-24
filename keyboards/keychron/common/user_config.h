@@ -6,4 +6,4 @@
 #define QUICK_TAP_TERM 0
 #undef RETRO_TAPPING
 #define TAPPING_TERM 200
-
+#define TAP_CODE_DELAY 50
